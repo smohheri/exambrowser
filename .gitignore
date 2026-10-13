@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs & runtime flags
+*.log
+exit.flag
+
+# Runtime data (cookies, cache, profile)
+profile/
+cache/
+
+# Build outputs (PyInstaller & Android)
+build/
+dist/
+*.exe
+*.apk
+*.aab
+
+# Android signing keys
+*.keystore
+*.jks

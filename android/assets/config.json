@@ -1,0 +1,18 @@
+{
+    "url": "https://cbt.smkpenerbangan.sch.id",
+    "title": "Exam Browser - SMK Penerbangan",
+    "exit_word": "KELUAR",
+    "camera_enabled": true,
+    "camera_size": [160, 120],
+    "block_screenshots": true,
+    "lock_task": true,
+    "exit_back_taps": 2,
+    "clear_data_on_exit": true,
+    "marquee": {
+        "enabled": true,
+        "text": "SMKP CAKRA NUSANTARA  \u2022  SMK PENERBANGAN  \u2022  JUJUR ITU HEBAT  \u2022  SELAMAT MENEMPUH UJIAN  \u2022  CBT ONLINE  \u2022  ",
+        "height_percent": 10,
+        "background": ["#ff512f", "#dd2476", "#7b2ff7"],
+        "color": "#ffffff"
+    }
+}

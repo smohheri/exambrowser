@@ -1,0 +1,36 @@
+{
+  "url": "https://cbt.smkpenerbangan.sch.id",
+  "title": "Exam Browser - SMK Penerbangan",
+  "exit_password": "admin123",
+  "secret_combo": ["ctrl", "shift", "q"],
+  "fullscreen": true,
+  "always_on_top": true,
+  "allowed_hosts": [],
+  "camera_preview": true,
+  "camera_index": 0,
+  "camera_size": [320, 180],
+  "camera_position": "bottom-right",
+  "marquee": {
+    "enabled": true,
+    "text": "★★★ SMKP CAKRA NUSANTARA • SEKOLAHNYA PARA JUARA ★★★   »   Lulus langsung kerja, bisa sambil kuliah, dan siap jadi wirausaha muda   »   Satu pilihan, sejuta peluang karier!   »   Bantu orang tua, wujudkan mimpi, buktikan kamu BISA!   »   Skill nyata, masa depan gemilang, langsung siap pakai   »   Jangan tunggu, kuota terbatas — DAFTAR SEKARANG dan raih masa depanmu!   ★★★",
+    "height": 30,
+    "height_percent": 10,
+    "speed": 2,
+    "interval": 25,
+    "background": ["#ff512f", "#dd2476", "#7b2ff7"],
+    "color": "#ffffff"
+  },
+  "block_keys": {
+    "windows_key": true,
+    "alt_tab": true,
+    "alt_f4": true,
+    "alt_esc": true,
+    "ctrl_esc": true,
+    "ctrl_shift_esc": true,
+    "refresh": true,
+    "devtools": true,
+    "new_window": true,
+    "print": true,
+    "view_source": true
+  }
+}
